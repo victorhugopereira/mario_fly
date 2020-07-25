@@ -175,6 +175,11 @@ function Mariofly() {
 
             if (colisao(mario, barreiras)) {
                 clearInterval(temporizador)
+                
+                setTimeout(() =>{
+                    window.location.reload()   
+                }, 1000);
+            
             }
         }, 20)
     }
