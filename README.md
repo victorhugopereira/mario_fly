@@ -1,6 +1,6 @@
 # mario fly
 
-primeira vez que desenvolvi um game em js.
+Primeira vez que desenvolvi um game em js.
 
 # sobre
 
