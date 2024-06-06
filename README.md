@@ -1,6 +1,7 @@
 # mario fly
 
-o game foi desenvolvido na linguangem nodejs afim de aprender mais sobre a linguagens e suas regras
+## Projeto
+o game foi desenvolvido na linguangem nodejs afim de aprender mais sobre a linguagem e suas regras
 
 ## Tecnologias Utilizadas
 * js
@@ -8,7 +9,11 @@ o game foi desenvolvido na linguangem nodejs afim de aprender mais sobre a lingu
 * css
 afim de  adiquerir conhecimento nas biblioteca das linguagens e me aprofundar
 
-## como rodar o game
+## como executar 
 faça downloaad do arquivo
+
+
 Abra o flappy.html
-game começará
+
+
+game começará.
