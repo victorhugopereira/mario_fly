@@ -3,9 +3,9 @@
 o game foi desenvolvido na linguangem nodejs afim de aprender mais sobre a linguagens e suas regras
 
 ## Tecnologias Utilizadas
-*`js`
-*`html`
-*`css`
+* js
+* html
+* css
 afim de  adiquerir conhecimento nas biblioteca das linguagens e me aprofundar
 
 ## como rodar o game
