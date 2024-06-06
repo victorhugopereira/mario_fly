@@ -10,7 +10,7 @@ o game foi desenvolvido na linguangem nodejs afim de aprender mais sobre a lingu
 afim de  adiquerir conhecimento nas biblioteca das linguagens e me aprofundar
 
 ## como executar 
-faça downloaad do arquivo
+faça download do arquivo
 
 
 Abra o flappy.html
